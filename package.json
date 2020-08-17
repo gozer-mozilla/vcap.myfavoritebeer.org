@@ -2,7 +2,7 @@
   "name": "myfavoritebeer",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.8",
+    "express": "4.17.1",
     "postprocess": "0.2.4",
     "client-sessions" : "0.0.3",
     "mongodb": "0.9.6-16"
